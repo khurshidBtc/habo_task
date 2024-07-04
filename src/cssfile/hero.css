@@ -1,0 +1,12 @@
+/* src/hero.css */
+.hero-bg {
+    background-image: url('../assets/Rectangle\ 1.png');
+    background-size: cover;
+    background-position: center;
+    height: 90vh; /* Full viewport height */
+    display: flex;
+    align-items: center; /* Center content vertically */
+    justify-content: center; /* Center content horizontally */
+    
+  }
+  
